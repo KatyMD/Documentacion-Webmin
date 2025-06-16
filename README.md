@@ -1,4 +1,4 @@
-# Crear y aplicar un script de inicio personalizado en Webmin
+# Introducción:
 
 ## ¿Qué es Webmin?
 
